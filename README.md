@@ -1,1 +1,2 @@
-# Carandashov-project
+# Carandashov-project  
+Studing project
